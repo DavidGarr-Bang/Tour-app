@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      >
+
+    <item
+        android:id="@+id/ic_home"
+        android:icon="@drawable/ic_home_black_48dp"
+        android:title="Home"
+        />
+
+        <item
+            android:id="@+id/ic_events"
+            android:icon="@drawable/ic_event_black_48dp"
+            android:title="Events"
+            />
+        <item
+            android:id="@+id/ic_fav"
+            android:icon="@drawable/ic_star_black_48dp"
+            android:title="Favourites"
+            />
+        <item
+            android:id="@+id/ic_attraction"
+            android:icon="@drawable/ic_location_city_black_48dp"
+            android:title="Attractions"
+            />
+
+    <item
+        android:id="@+id/map"
+        android:icon="@drawable/ic_map_black_48dp"
+        android:title="Explore"
+        />
+
+
+
+</menu>

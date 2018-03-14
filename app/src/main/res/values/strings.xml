@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">London City Adviser</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="start">Start</string>
+    <string name="title_slide1">Events</string>
+    <string name="desc_slide1">View London currant up and coming Events</string>
+    <string name="title_slide2">Attractions</string>
+    <string name="desc_slide2">Find out about information London attractions</string>
+    <string name="title_slide3">Maps</string>
+    <string name="desc_slide3">View the attractions using the map and find out how to get there</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="next_st">next</string>
+    <string name="skip_st">skip</string>
+    <string name="date_st">Date</string>
+    <string name="title_st">Title</string>
+    <string name="information_st">information</string>
+</resources>

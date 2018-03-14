@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textSize="25sp"
+        android:text="by David Garrick Bangbola"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:id="@+id/textTab1"
+        android:layout_below="@+id/btnTEST"/>
+
+
+
+
+
+    <TextView
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to my university app I have created this app to show case the skills that I have learned on my mobile Application development module. With this app I hope will demonstrate the use of the following features:
+
+\n\n• Activity’s to show my main content of the Application such as my splash screen and my list views of for the content.
+
+\n\n• Google maps API to show the location of my attractions loactions
+
+\n\n• Create a  SQL Light database to store all the information and keep it orgainsed
+"/>
+
+</LinearLayout>
